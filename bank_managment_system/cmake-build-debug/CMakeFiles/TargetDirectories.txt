@@ -1,0 +1,3 @@
+C:/Users/MelissaAsus/CLionProjects/bank_managment_system/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/MelissaAsus/CLionProjects/bank_managment_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MelissaAsus/CLionProjects/bank_managment_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
